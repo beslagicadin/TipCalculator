@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="tipPrec">Tip Percentage</string>
+    <string name="Calc">Calculate tip</string>
+    <string name="TipAm">Enter your bill:</string>
+    <string name="Napojnica">"Iznos napojnice: "</string>
+    <string name="sum">Ukupno:</string>
+    <string name="iznos_napojnice">Iznos napojnice:</string>
+</resources>
