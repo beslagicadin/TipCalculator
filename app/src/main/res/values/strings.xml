@@ -6,4 +6,5 @@
     <string name="Napojnica">"Iznos napojnice: "</string>
     <string name="sum">Ukupno:</string>
     <string name="iznos_napojnice">Iznos napojnice:</string>
+    <string name="billValueEmptyWarning">Please enter the bill amount!</string>
 </resources>
